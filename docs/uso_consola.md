@@ -14,5 +14,3 @@ Para visualizar un archivo se puede utilizar dos comandos. "cat" muestra el cont
 
 Tambien se utiliza atajos como "tab" para atucompletar nombres.
 "Ctrl C" detiene el comando que se esta ejecutando. O "clear" para borrar el historial en pantalla de los comandos ejecutados. 
-
-Cuando se trabaja con un repositorio, se utilizan como "git add" para pasar del local al stage y "git commmit -m" para pasar del stage al repositorio.
