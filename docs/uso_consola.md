@@ -14,3 +14,7 @@ Para visualizar un archivo se puede utilizar dos comandos. "cat" muestra el cont
 
 Tambien se utiliza atajos como "tab" para atucompletar nombres.
 "Ctrl C" detiene el comando que se esta ejecutando. O "clear" para borrar el historial en pantalla de los comandos ejecutados. 
+
+![ejemplo](1.png)
+
+Este es un ejemplo del proceso que se puede hacer para visualizar de una manera más ordenada el camino y así navegar entre los archivos y directorios de una manera más eficiente.
