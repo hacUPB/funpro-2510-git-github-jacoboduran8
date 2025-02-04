@@ -12,6 +12,6 @@ Cuando se trabaja con un repositorio local, se utilizan como "git add" para pasa
 
 Para ver el estado del repositorio se usa "git status". Y este comando muestra que archivos estan listos para hacer commit o a que archivos todavia no se les está haciendo tracking.
 
-![foto](repositorio_local.png)
+![alt text](../images/repositorio_local.png)
 
-Estos son unos de los comandos que se utilizan tanto para repositorio local como remoto. Sin embargo el comando que haria falta sería "git init", para inicializar el repositorio.
+Estos son unos de los comandos que se utilizan tanto para repositorio local como remoto. Sin embargo el comando que haria falta sería "git init", para inicializar el repositorio
